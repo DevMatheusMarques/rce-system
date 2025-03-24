@@ -1,0 +1,14 @@
+.dropdown__link {
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: var(--white-primary);
+    color: black;
+    text-align: left;
+    white-space: nowrap;
+    transition: .3s ease-in-out;
+    border-radius: 5px;
+}
+
+.dropdown__link:hover {
+    background-color: #eaeaea;
+}

@@ -1,0 +1,81 @@
+.header {
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.header__item {
+    display: flex;
+    align-items: center;
+}
+.header__img {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.access__level {
+    position: absolute;
+    height: .8rem;
+    width: .8rem;
+    border-radius: 50px;
+}
+.access__level--admin {
+    border: 2px solid #ffcd00;
+    background-color: #ffcd00;
+}.access__level--manager {
+    border: 2px solid #d2dce7;
+    background-color: #d2dce7;
+}.access__level--operator {
+    border: 2px solid #e4624c;
+    background-color: #e4624c;
+}
+.access__level--img {
+    width: 20px;
+    height: 20px;
+}
+
+.header__logo {
+    object-fit: cover;
+    margin-left: 20px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+.header__profile {
+    display: flex;
+}
+
+.header__profile--info {
+    display: flex;
+    align-items: center;
+    transition: border-bottom-color 0.2s ease-in-out, border-bottom-width 0.2s ease-in-out;
+    cursor: pointer;
+    padding: 1px 10px;
+}
+
+.border__link {
+    border-bottom: 4px solid transparent;
+}
+
+.border__link:hover {
+    border-bottom: 4px solid var(--blue-dark);
+}
+
+.header__profile--switch {
+    margin-right: 25px;
+    padding: 10% 0;
+}
+
+.header__profile--img {
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.header__profile--name {
+    font-size: 20px;
+    margin-left: 10px;
+}

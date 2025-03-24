@@ -1,0 +1,47 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1%;
+}
+
+.inputs {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+}
+.input__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.content__logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.content__logo--img {
+    width: 250px;
+}
+
+.content__title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.content__form {
+    width: 100%;
+}
+
+.button__specify {
+    width: 100%;
+    margin: 15px 0;
+}
+
+.anchor__register {
+    text-align: center !important;
+}

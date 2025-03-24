@@ -1,0 +1,17 @@
+.info__profile--file {
+    margin-top: 15px;
+    display: none;
+}
+
+
+.modal-enter-to {
+    top: 60px;
+}
+
+.modal-leave-from {
+    top: 60px;
+}
+
+.modal__component {
+    height: calc(100% - 60px);
+}

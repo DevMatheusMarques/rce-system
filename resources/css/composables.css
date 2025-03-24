@@ -1,0 +1,14 @@
+.input-error {
+    border: 1px solid var(--red-error) !important;
+}
+
+.input-error:focus {
+    outline: none;
+    border: 2px solid var(--red-error);
+    box-shadow: 0 0 5px var(--red-error);
+}
+.input-error-message {
+    color: var(--red-error);
+    font-size: 12px;
+    position: relative;
+}

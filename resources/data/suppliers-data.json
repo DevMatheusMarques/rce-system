@@ -1,0 +1,512 @@
+[
+	{
+		"cnpj" : "51.564.998/0001-98",
+		"corporate_name" : "51.564.998 JORDAN DOUGLAS ROSA DE MELO",
+		"trade_name" : "ITECH SOFTMASTER",
+		"email" : "jordandouglas8515@gmail.com",
+		"cep" : "19031-085",
+		"phone" : "(18) 99745-5265",
+		"address_city" : "Presidente Prudente",
+		"address_state" : "São Paulo"
+	},
+    {
+		"cnpj" : "03.376.350/0001-45",
+		"corporate_name" : "LVK SISTEMAS LTDA",
+		"trade_name" : "LVK",
+		"email" : "atendimento@apoioaic.com.br",
+		"cep" : "05050-010",
+		"phone" : "(11) 3864-6477",
+		"address_city" : "São Paulo",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "33.434.958/0001-40",
+		"corporate_name" : "LOGIC SOLUCOES LTDA",
+		"trade_name" : null,
+		"email" : "logicsaude@gmail.com",
+		"cep" : "13012-100",
+		"phone" : "(19) 3231-4050",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "00.157.840.0001/62",
+		"corporate_name" : "OLIVEIRA & SOUZA LTDA",
+		"trade_name" : "RETIFICA IMPERIAL",
+		"email" : "retimperial@ig.com.br",
+		"cep" : "13179-041",
+		"phone" : "(19) 9723-0230",
+		"address_city" : "Sumaré",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "07.778.411/0001-51",
+		"corporate_name" : "PLENO TELECOMUNICACOES LTDA",
+		"trade_name" : "PLENO COMUNICACAO VOIP",
+		"email" : "mauricio@adtechtelecom.com.br",
+		"cep" : "13020-170",
+		"phone" : "(19) 3241-4535",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "13.992.585/0001-15",
+		"corporate_name" : "DCIDE LTDA",
+		"trade_name" : null,
+		"email" : "contato@dcide.com.br",
+		"cep" : "13023-030",
+		"phone" : "(19) 2513-4118",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "48.539.407/0029-19",
+		"corporate_name" : "BASF SA",
+		"trade_name" : null,
+		"email" : "fiscal@basf.com",
+		"cep" : "13330-970",
+		"phone" : "(11) 2039-3778",
+		"address_city" : "Indaiatuba",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "03.905.341/0001-02",
+		"corporate_name" : "ISM SANEAMENTO E ANALITICA LTDA",
+		"trade_name" : "ISM AMBIENTAL",
+		"email" : "ism@ismsaneamento.com",
+		"cep" : "13273-053",
+		"phone" : "(19) 8850-6611",
+		"address_city" : "Valinhos",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "15.757.979/0001-14",
+		"corporate_name" : "UCT BRASIL SERVICE INFORMATICA LTDA",
+		"trade_name" : null,
+		"email" : "rogerio.porto@uctbrasil.com.br",
+		"cep" : "01006-904",
+		"phone" : "(19) 3751-1201",
+		"address_city" : "São Paulo",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "61.600.839/0001-55",
+		"corporate_name" : "CENTRO DE INTEGRACAO EMPRESA ESCOLA CIE E",
+		"trade_name" : null,
+		"email" : "assuntosfiscais@ciee.org.br",
+		"cep" : "04533-011",
+		"phone" : "(11) 3040-9800",
+		"address_city" : "São Paulo",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "09.030.444/0001-44",
+		"corporate_name" : "CAMPOS SALES COMERCIO DE LIVROS E INFORMATICA LTDA.",
+		"trade_name" : null,
+		"email" : "contabilidade@microcamp.com.br",
+		"cep" : "13087-441",
+		"phone" : "(19) 2116-2500",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "333.722.51/0062-78",
+		"corporate_name" : "IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA",
+		"trade_name" : null,
+		"email" : "ibmevoce@br.ibm.com",
+		"cep" : "13186-525",
+		"phone" : "(11) 2132-3053",
+		"address_city" : "Hortolândia",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "05.588.988/0001-75",
+		"corporate_name" : "IMIDIA MULTIMEIOS LTDA",
+		"trade_name" : "IMIDIA EVENTOS",
+		"email" : "masterliberalis@terra.com.br",
+		"cep" : "13015-090",
+		"phone" : "(19) 3203-8600",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "22.311.442/0001-91",
+		"corporate_name" : "MOB2CON SOLUCOES TECNOLOGICAS S.A",
+		"trade_name" : "MOB2CON",
+		"email" : "financeiro@mob2con.com.br",
+		"cep" : "13289-188",
+		"phone" : "(19) 3836-3491",
+		"address_city" : "Vinhedo",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "00.088.992/0001-50",
+		"corporate_name" : "GNTEC SERVICOS TECNOLOGICOS E CONSULTORIA EMPRESARIAL S/S LTDA",
+		"trade_name" : null,
+		"email" : "GNTEC@gmail.com",
+		"cep" : "03193-110",
+		"phone" : "(18) 32213-2332",
+		"address_city" : "São Paulo",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "24.579.417/0001-19",
+		"corporate_name" : "INTEGRARTI CONSULTORIA E DESENVOLVIMENTO DE SISTEMAS LTDA",
+		"trade_name" : "INTEGRARTI CONSULTORIA",
+		"email" : "guy.holland@integrarti.com",
+		"cep" : "13049-900",
+		"phone" : "(19) 2660-0726",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "45.990.181/0001-89",
+		"corporate_name" : "ROBERT BOSCH LIMITADA",
+		"trade_name" : null,
+		"email" : "cadastro.tributario@br.bosch.com",
+		"cep" : "13065-900",
+		"phone" : "(19) 2103-1954",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "24917174/0001-81",
+		"corporate_name" : "G4 ENSINO DE INFORMATICA E IDIOMAS LTDA",
+		"trade_name" : null,
+		"email" : "alessandra@peoplecampinas.com.br",
+		"cep" : "13087-018",
+		"phone" : "(19) 3251-7994",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "23.167.140/0001-54",
+		"corporate_name" : "MSXI RNS BRASIL TREINAMENTO E TERCEIRIZACAO DE PROCESSOS LTDA",
+		"trade_name" : null,
+		"email" : "br-contact@msxi.com",
+		"cep" : "09520-070",
+		"phone" : "(11) 3172-7100",
+		"address_city" : "São Caetano do Sul",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "09.289.704/0001-09",
+		"corporate_name" : "AKIVA TECNOLOGIA LTDA",
+		"trade_name" : null,
+		"email" : "daniel@serkas.com.br",
+		"cep" : "13097-160",
+		"phone" : "(19) 3797-5734",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "11.971.233/0003-10",
+		"corporate_name" : "LSA TREINAMENTO EM INFORMATICA E IDIOMAS LTDA",
+		"trade_name" : "MICROPRO",
+		"email" : "fabio@micropro.com.br",
+		"cep" : "13270-020",
+		"phone" : "(19) 3702-1255",
+		"address_city" : "Valinhos",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "29.653.439/0001-03",
+		"corporate_name" : "GENSA SERVICOS DIGITAIS S/A",
+		"trade_name" : "GENBIT",
+		"email" : "nivaldo.gonzaga71@gmail.com",
+		"cep" : "13098-325",
+		"phone" : "(19) 3115-3000",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "08.580.849/0001-93",
+		"corporate_name" : "IT GLOBAL SERVICES CONSULTORIA EM SISTEMAS DE INFORMATICA LTDA",
+		"trade_name" : "ONLINE APPLICATIONS",
+		"email" : "luis.lemes@onlineapp.com.br",
+		"cep" : "13080-661",
+		"phone" : "(19) 4062-8611",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "04.202.583/0001-94",
+		"corporate_name" : "T&E ANALITICA - CENTRO DE PESQUISAS, DESENVOLVIMENTOS, ANALISES E CONSULTORIA QUIMICA, BIOLOGICA E FARMACEUTICA LTDA",
+		"trade_name" : "T&e Analitica - Centro de Pesquisa Cientifica",
+		"email" : "T&eAnalitica@gmail.com",
+		"cep" : "13087-548",
+		"phone" : "(19) 3241-3968",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "25281415/0001-01",
+		"corporate_name" : "JUPTER ENERGY GESTAO DE ENERGIA ELETRICA LTDA",
+		"trade_name" : "ENERGETICA SERVICOS DE ENERGIA LTDA",
+		"email" : "matiussithiago@gmail.com",
+		"cep" : "04004-030",
+		"phone" : "(11) 3862-0647",
+		"address_city" : "São Paulo",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "60.879.848/0001-64",
+		"corporate_name" : "LABORATORIO TAYUYNA LTDA",
+		"trade_name" : null,
+		"email" : "adv@advfarma.com.br",
+		"cep" : "13380-240",
+		"phone" : "(19) 3476-8550",
+		"address_city" : "Nova Odessa",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "38.733.648/0052-90",
+		"corporate_name" : "EDITORA E DISTRIBUIDORA EDUCACIONAL S/A",
+		"trade_name" : null,
+		"email" : "tributario@kroton.com.br",
+		"cep" : "01418-002",
+		"phone" : "(11) 4383-8445",
+		"address_city" : "São Paulo",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "09.441.008/0001-68",
+		"corporate_name" : "UNITA EDUCACIONAL LTDA",
+		"trade_name" : null,
+		"email" : "campinas@proordem.com.br",
+		"cep" : "13025-080",
+		"phone" : "(19) 3231-0077",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "08.654.191/0001-17",
+		"corporate_name" : "SINCH BRASIL S.A.",
+		"trade_name" : null,
+		"email" : "fiscal-wavy@sinch.com",
+		"cep" : "13024-001",
+		"phone" : "(19) 3518-5500",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "20.684.206/0001-95",
+		"corporate_name" : "PRC CAMPINAS SERVICOS LTDA",
+		"trade_name" : null,
+		"email" : "antonioacev2969@hotmail.com",
+		"cep" : "13070-261",
+		"phone" : "(16) 3371-4507",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "43.996.693/0001-27",
+		"corporate_name" : "PPG INDUSTRIAL DO BRASIL - TINTAS E VERNIZES - LTDA.",
+		"trade_name" : null,
+		"email" : "fiscal@ppg.com",
+		"cep" : "13180-900",
+		"phone" : "(19) 2103-6171",
+		"address_city" : "Sumaré",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "21.114.494/0001-05",
+		"corporate_name" : "TI NECT SERVICOS DE INFORMATICA LTDA.",
+		"trade_name" : "AUTHI",
+		"email" : "backofficetributario@cpfl.com.br",
+		"cep" : "13088-140",
+		"phone" : "(19) 3756-8020",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "04.556.068/0001-02",
+		"corporate_name" : "EVOLUSERVICES MEIOS DE PAGAMENTOS LTDA",
+		"trade_name" : null,
+		"email" : "natalia@saudeservice.com.br",
+		"cep" : "01310-932",
+		"phone" : "(11) 3014-8600",
+		"address_city" : "São Paulo",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "01.940.175/0001-41",
+		"corporate_name" : "SOFTWAY SOFTWARES PARA COMERCIO EXTERIOR LTDA",
+		"trade_name" : null,
+		"email" : "compliance.brasil@thomsonreuters.com",
+		"cep" : "13092-054",
+		"phone" : "(11) 2159-0500",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "14.466.113/0001-91",
+		"corporate_name" : "R. FERRAREZI ENGENHARIA E CONSULTORIA LTDA.",
+		"trade_name" : "R. FERRAREZI",
+		"email" : "ecsaojose@uol.com.br",
+		"cep" : "13010-010",
+		"phone" : "(19) 3871-2027",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "29654.819/0001-54",
+		"corporate_name" : "LHT INTERMEDIACAO DE NEGOCIOS DIGITAL LTDA",
+		"trade_name" : "LHT DIGITAL",
+		"email" : "arnaldo@planconsultoria.com",
+		"cep" : "13098-320",
+		"phone" : "(19) 3324-7622",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "96.499.728/0001-89",
+		"corporate_name" : "VENTURUS CENTRO DE INOVACAO TECNOLOGICA",
+		"trade_name" : "VENTURUS",
+		"email" : "fiscal@venturus.org.br",
+		"cep" : "13086-530",
+		"phone" : "(19) 3755-8600",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "08.354.533/0001-83",
+		"corporate_name" : "AJVM COMERCIO E SERVICOS DE INFORMATICA LTDA",
+		"trade_name" : "AVS TECNOLOGIA",
+		"email" : "susana.veiga@avstecnologia.com.br",
+		"cep" : "13087-240",
+		"phone" : "(19) 3243-9559",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "04.329.668/0001-38",
+		"corporate_name" : "EUROFINS DO BRASIL ANALISES DE ALIMENTOS LTDA.",
+		"trade_name" : null,
+		"email" : "br_tax@eurofinslatam.com",
+		"cep" : "13337-300",
+		"phone" : "(19) 2107-5500",
+		"address_city" : "Indaiatuba",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "19.155.177/0001-95",
+		"corporate_name" : "INSTITUTO INTEGRAL",
+		"trade_name" : "INSTITUTO INTEGRAL",
+		"email" : "contabilidade@integral.br",
+		"cep" : "13092-553",
+		"phone" : "(19) 3794-4444",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "22.279.800/0001-26",
+		"corporate_name" : "AUTO AVALIAR TECNOLOGIA, PUBLICIDADE E INTERMEDIACAO DE NEGOCIOS E SERVICOS S.A.",
+		"trade_name" : "AUTO AVALIAR",
+		"email" : "financeiro@autoavaliar.com.br",
+		"cep" : "13289-180",
+		"phone" : "(11) 5096-2669",
+		"address_city" : "Vinhedo",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "33.050.196/0001-88",
+		"corporate_name" : "COMPANHIA PAULISTA DE FORCA E LUZ",
+		"trade_name" : null,
+		"email" : "backofficetributario@gmail.com",
+		"cep" : "13087-397",
+		"phone" : "(19) 3756-8023",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "03.809.579/0001-26",
+		"corporate_name" : "SAVEWAY COMERCIO E REPRESENTACOES DE SOFTWARES LTDA",
+		"trade_name" : null,
+		"email" : "adm@saveway.com.br",
+		"cep" : "13080-650",
+		"phone" : "(19) 9982-8890",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "60.463.072/0006-01",
+		"corporate_name" : "LICEU CORACAO DE JESUS",
+		"trade_name" : "FACULDADES SALESIANAS",
+		"email" : "claudia.santos@unisal.br",
+		"cep" : "13075-490",
+		"phone" : "(11) 3221-3031",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "02.641.663/0001-10",
+		"corporate_name" : "FUNDACAO CPQD - CENTRO DE PESQUISA E DESENVOLVIMENTO EM TELECOMUNICACOES",
+		"trade_name" : "Cpqd",
+		"email" : "avicente@cpqd.com.br",
+		"cep" : "13086-510",
+		"phone" : "(19) 3705-6851",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "51.885.242/0001-40",
+		"corporate_name" : "MUNICIPIO DE CAMPINAS",
+		"trade_name" : "PREFEITURA MUNICIPAL DE CAMPINAS",
+		"email" : "prefcampinas@gmail.com",
+		"cep" : "13015-904",
+		"phone" : "(18) 32213-2333",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "30.697.589/0001-90",
+		"corporate_name" : "UPLEVEL MARKETING LTDA",
+		"trade_name" : null,
+		"email" : "societario@capitalprime.com.br",
+		"cep" : "13092-558",
+		"phone" : "(19) 2517-3898",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "58.514.928/0033-51",
+		"corporate_name" : "MEXICHEM BRASIL INDUSTRIA DE TRANSFORMACAO PLASTICA LTDA",
+		"trade_name" : null,
+		"email" : "fiscalbr@mexichem.com",
+		"cep" : "13175-490",
+		"phone" : "(47) 3461-7099",
+		"address_city" : "Sumaré",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "00.348.003/0116-60",
+		"corporate_name" : "EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA",
+		"trade_name" : "CENTRO NAC DE PESQ TECNOL EM INFORM PARA A AGRICULTURA",
+		"email" : "sof@cnptia.embrapa.br",
+		"cep" : "13083-886",
+		"phone" : "(19) 3211-5700",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "20.831.215/0001-61",
+		"corporate_name" : "TORADEX BRASIL IMPORTACAO E COMERCIO DE SISTEMAS ELETRONICOS LTDA",
+		"trade_name" : "TORADEX BRASIL",
+		"email" : "guilherme.fernandes@toradex.com",
+		"cep" : "13024-001",
+		"phone" : "(19) 3327-3738",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	},
+	{
+		"cnpj" : "29.287.343/0001-60",
+		"corporate_name" : "AOKI SISTEMAS INTELIGENTES LTDA",
+		"trade_name" : null,
+		"email" : "societario@contmaisassessoria.com.br",
+		"cep" : "13092-106",
+		"phone" : "(19) 3325-9211",
+		"address_city" : "Campinas",
+		"address_state" : "São Paulo"
+	}
+]

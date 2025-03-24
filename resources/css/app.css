@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+@import './reset.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+    --green-primary: #1b9b45; /*rgb(27, 155, 69)*/
+    --green-primary-hover: #26b547;
+    --red-error: #b7192b;
+    --red-danger: #db2429;
+    --red-danger-hover: #f9382d;
+    --blue-dark: #092f8a;
+    --blue-dark-hover: #0c38a3;
+    --blue-light: #269aef;
+    --blue-light-hover: #1977bd;
+    --blue-sidebar: #0088ce; /* rgb(0, 136, 206)*/
+    --blue-secondary: #134ea7; /* rgb(19, 78, 167)*/
+    --blue-baby: #d8e8fc;
+    --white-primary: #ffffff;
+    --gray-light: #f1f4f9;
+    --gray-light-hover: #dfe6f1;
+    --gray-dark : #c9d3dd;
+    --good-text: #006100;
+    --good-background: #C6EFCE;
+    --neutral-text: #9C5700;
+    --neutral-background: #FFEB9C;
+    --bad-text: #9C0006;
+    --bad-background: #FFC7CE;
+    --approved-background: #C0E6F5;
+    --approved-text: #156082;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    overflow-y: hidden;
+}
+.form__input {
+    width: 100%;
+    border-radius: 4px;
+    background-color: white;
+    border: #c9d3dd solid 1px;
+}
+.form__disabled {
+    background-color: rgba(223, 230, 241, 0.65);
+    color: #888888;
+}
+
+.form__label {
+    font-size: 15px;
+    color: #575757;
+}
+
+.field-required {
+    font-weight: bold;
+    color: red;
+    margin-left: 3px;
+}
+.form__input-disabled {
+    font-weight: bold;
+}
+
+.status--active, .status__completed {
+    background-color: var(--good-background);
+    color: var(--good-text);
+    padding: 2px 4px ;
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+}
+.status--inactive, .status__canceled, .status__refused {
+    background-color: var(--bad-background);
+    color: var(--bad-text);
+    padding: 2px 4px ;
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+}
+.status__in_progress, .status__pending {
+    background-color: var(--neutral-background);
+    color: var(--neutral-text);
+    padding: 2px 4px ;
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+}
+.status__approved {
+    background-color: var(--approved-background);
+    color: var(--approved-text);
+    padding: 2px 4px ;
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+select option {
+    background-color: white;
+    color: black;
+}
