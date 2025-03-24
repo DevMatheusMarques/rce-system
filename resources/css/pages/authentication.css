@@ -1,0 +1,106 @@
+/* efeito de transição entre elementos */
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.3s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+    opacity: 0;
+}
+
+.content {
+    height: 100vh;
+    display: flex;
+}
+
+.content__section--components {
+    width: 45%;
+    padding: 0 5%;
+}
+
+.content__section--info {
+    background-image: url("/public/assets/img/fundo.png");
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content__info--title {
+    margin-top: 100px;
+    font-size: 60px;
+    color: white;
+    z-index: 2;
+    position: relative;
+    font-weight: bold;
+    text-align: center;
+}
+
+.content__topics {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content__info--slogan {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+}
+
+.content__info--box {
+    background-color: white;
+    border: white;
+    border-radius: 25px;
+    padding: 0 10px;
+    align-items: center;
+    margin: 2%;
+    width: 55%;
+    font-size: 28px;
+    color: var(--blue-dark);
+}
+
+.content__info--topics {
+    display: inline-flex;
+    align-items: center;
+}
+
+.content__info--icons {
+    vertical-align: middle;
+    margin-right: 25px;
+}
+
+@media only screen and (max-width: 600px) {
+    .content__section--login {
+        width: 100vw;
+        padding: 10%;
+        align-items: center;
+    }
+
+    .content__section--info {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1199px) {
+    .content__section--login {
+        width: 100vw;
+        padding: 10%;
+        margin-top: 15%;
+        align-items: center;
+    }
+
+    .content__logo--img {
+        width: 350px;
+    }
+}

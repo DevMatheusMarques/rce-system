@@ -1,0 +1,346 @@
+[
+  {
+    "name": "Toner 505A",
+    "category": "toner"
+  },
+  {
+    "name": "Toner 364A",
+    "category": "toner"
+  },
+  {
+    "name": "Toner 285A",
+    "category": "toner"
+  },
+  {
+    "name": "Toner Q2612A",
+    "category": "toner"
+  },
+  {
+    "name": "Cartucho 664 Preto",
+    "category": "cartridge"
+  },
+  {
+    "name": "Cartucho 664 Colorido",
+    "category": "cartridge"
+  },
+  {
+    "name": "Agenda",
+    "category": "desk"
+  },
+  {
+    "name": "Almofada para carimbo",
+    "category": "cartridge"
+  },
+  {
+    "name": "Apagador para lousa",
+    "category": "desk"
+  },
+  {
+    "name": "Apontador",
+    "category": "desk"
+  },
+  {
+    "name": "Bloco de anotações",
+    "category": "paper"
+  },
+  {
+    "name": "Bolsa para laptop",
+    "category": "desk"
+  },
+  {
+    "name": "Bolsa plástica",
+    "category": "others"
+  },
+  {
+    "name": "Cabo USB",
+    "category": "others"
+  },
+  {
+    "name": "Caixa arquivo",
+    "category": "desk"
+  },
+  {
+    "name": "Caixa de correspondência",
+    "category": "desk"
+  },
+  {
+    "name": "Caixa organizadora",
+    "category": "desk"
+  },
+  {
+    "name": "Calculadora científica",
+    "category": "desk"
+  },
+  {
+    "name": "Calculadora de mesa",
+    "category": "desk"
+  },
+  {
+    "name": "Caneta esferográfica",
+    "category": "desk"
+  },
+  {
+    "name": "Caderno",
+    "category": "desk"
+  },
+  {
+    "name": "Caderno de anotações",
+    "category": "desk"
+  },
+  {
+    "name": "Caderno de desenho",
+    "category": "desk"
+  },
+  {
+    "name": "Caderno de planejamento",
+    "category": "desk"
+  },
+  {
+    "name": "Caderno pautado",
+    "category": "desk"
+  },
+  {
+    "name": "Caderno sem pauta",
+    "category": "desk"
+  },
+  {
+    "name": "Cartolina",
+    "category": "paper"
+  },
+  {
+    "name": "Cartão de memória",
+    "category": "others"
+  },
+  {
+    "name": "Clipe",
+    "category": "desk"
+  },
+  {
+    "name": "Corretivo",
+    "category": "desk"
+  },
+  {
+    "name": "Divisórias para fichário",
+    "category": "desk"
+  },
+  {
+    "name": "DVD-R",
+    "category": "others"
+  },
+  {
+    "name": "Envelope",
+    "category": "paper"
+  },
+  {
+    "name": "Envelope de plástico",
+    "category": "paper"
+  },
+  {
+    "name": "Envelope de segurança",
+    "category": "paper"
+  },
+  {
+    "name": "Envelope pardo",
+    "category": "paper"
+  },
+  {
+    "name": "Etiqueta adesiva",
+    "category": "paper"
+  },
+  {
+    "name": "Etiqueta de código de barras",
+    "category": "paper"
+  },
+  {
+    "name": "Estojo de canetas",
+    "category": "desk"
+  },
+  {
+    "name": "Fichário",
+    "category": "desk"
+  },
+  {
+    "name": "Fita adesiva",
+    "category": "desk"
+  },
+  {
+    "name": "Fone de ouvido",
+    "category": "others"
+  },
+  {
+    "name": "Furador de papel",
+    "category": "desk"
+  },
+  {
+    "name": "Globo terrestre",
+    "category": "others"
+  },
+  {
+    "name": "Grampeador",
+    "category": "desk"
+  },
+  {
+    "name": "Grampo para papel",
+    "category": "desk"
+  },
+  {
+    "name": "Lápis",
+    "category": "desk"
+  },
+  {
+    "name": "Lápis de cor",
+    "category": "desk"
+  },
+  {
+    "name": "Lousa branca",
+    "category": "desk"
+  },
+  {
+    "name": "Marcador de texto",
+    "category": "desk"
+  },
+  {
+    "name": "Marcador para lousa",
+    "category": "desk"
+  },
+  {
+    "name": "Mapa-múndi",
+    "category": "others"
+  },
+  {
+    "name": "Microfone",
+    "category": "others"
+  },
+  {
+    "name": "Mochila para notebook",
+    "category": "others"
+  },
+  {
+    "name": "Mouse",
+    "category": "others"
+  },
+  {
+    "name": "Mouse pad",
+    "category": "others"
+  },
+  {
+    "name": "Organizador de arquivos",
+    "category": "desk"
+  },
+  {
+    "name": "Organizador de mesa",
+    "category": "desk"
+  },
+  {
+    "name": "Painel de organização",
+    "category": "desk"
+  },
+  {
+    "name": "Painel de recados",
+    "category": "desk"
+  },
+  {
+    "name": "Papel A4",
+    "category": "paper"
+  },
+  {
+    "name": "Papel adesivo (Post-it)",
+    "category": "paper"
+  },
+  {
+    "name": "Papel carbono",
+    "category": "paper"
+  },
+  {
+    "name": "Papel cartão",
+    "category": "paper"
+  },
+  {
+    "name": "Papel de fax",
+    "category": "paper"
+  },
+  {
+    "name": "Papel fotográfico",
+    "category": "paper"
+  },
+  {
+    "name": "Papel manteiga",
+    "category": "paper"
+  },
+  {
+    "name": "Papel reciclado",
+    "category": "paper"
+  },
+  {
+    "name": "Papel timbrado",
+    "category": "paper"
+  },
+  {
+    "name": "Papel vegetal",
+    "category": "paper"
+  },
+  {
+    "name": "Pasta catálogo",
+    "category": "desk"
+  },
+  {
+    "name": "Pasta de arquivo",
+    "category": "desk"
+  },
+  {
+    "name": "Pasta de plástico",
+    "category": "desk"
+  },
+  {
+    "name": "Pen drive",
+    "category": "others"
+  },
+  {
+    "name": "Planner",
+    "category": "desk"
+  },
+  {
+    "name": "Porta-lápis",
+    "category": "desk"
+  },
+  {
+    "name": "Quadro de horários",
+    "category": "others"
+  },
+  {
+    "name": "Quadro magnético",
+    "category": "others"
+  },
+  {
+    "name": "Régua",
+    "category": "desk"
+  },
+  {
+    "name": "Relógio de parede",
+    "category": "others"
+  },
+  {
+    "name": "Suporte para monitor",
+    "category": "others"
+  },
+  {
+    "name": "Suporte para notebook",
+    "category": "others"
+  },
+  {
+    "name": "Suporte para tablet",
+    "category": "others"
+  },
+  {
+    "name": "Tesoura de escritório",
+    "category": "desk"
+  },
+  {
+    "name": "Teclado",
+    "category": "desk"
+  },
+  {
+    "name": "Webcam",
+    "category": "desk"
+  }
+]
